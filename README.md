@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mariano2nd
 - 👀 I’m interested in Computer science or technology
-- 🌱 I’m currently learning python, c++, raspberry pi, and stuff in college lul
+- 🌱 I’m currently learning python, c++, raspberry pi, and stuff in college
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me godinezjoseph16@gmail.com
 
